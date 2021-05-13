@@ -10,6 +10,6 @@
 ### Technology stack:
 * Spring Boot
 * Spring Data JPA
-* MySQL
+* Postgres
 * Spring Security
 * JWT (JSON Web Tokens)
